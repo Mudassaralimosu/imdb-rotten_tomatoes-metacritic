@@ -1,0 +1,6 @@
+README.md
+setup.py
+src/imdb_rtomatoes_metacritic.egg-info/PKG-INFO
+src/imdb_rtomatoes_metacritic.egg-info/SOURCES.txt
+src/imdb_rtomatoes_metacritic.egg-info/dependency_links.txt
+src/imdb_rtomatoes_metacritic.egg-info/top_level.txt
