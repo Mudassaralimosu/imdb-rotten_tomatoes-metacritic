@@ -1,6 +1,6 @@
 # imdb-rotten_tomatoes-metacritic
 
-With the help of this module, you can get the imdb,rotten tomatoes and metacritic rating.
+With the help of this, you can get the imdb,rotten tomatoes and metacritic rating.
 
 Also you can get how many peoples have voted on imdb,rotten tomatoes and metacritic so thay there ratings are calculated 
 
